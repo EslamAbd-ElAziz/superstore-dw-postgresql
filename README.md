@@ -43,6 +43,9 @@ for executive reporting and KPI monitoring.
 
 - **Return rate is 5.9%** (296 of 5,009 distinct orders) — a reasonable benchmark to
   track for future improvement efforts
-  
+
+## Screenshots
+![Unpivot view](Energy-Consumption-SQL-Analysis/02_unpivot_view.PNG)
+![Monthly summary](Energy-Consumption-SQL-Analysis/05_monthly_energy_summary.PNG)
 ## Tools
 PostgreSQL, Python (Pandas, SQLAlchemy)
