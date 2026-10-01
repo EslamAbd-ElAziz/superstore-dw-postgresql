@@ -45,7 +45,8 @@ for executive reporting and KPI monitoring.
   track for future improvement efforts
 
 ## Screenshots
-![Unpivot view](Energy-Consumption-SQL-Analysis/02_unpivot_view.PNG)
-![Monthly summary](Energy-Consumption-SQL-Analysis/05_monthly_energy_summary.PNG)
+![Star_Schema](Superstore-DW-Postgresql/images/1-Star_Schema.png)
+![ERD](Superstore-DW-Postgresql/images/2-ERD.PNG)
+
 ## Tools
 PostgreSQL, Python (Pandas, SQLAlchemy)
