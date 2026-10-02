@@ -49,6 +49,5 @@ for executive reporting and KPI monitoring.
 ![ERD](Superstore-DW-Postgresql/images/2-ERD.PNG)
 ![Customers with Abov](Superstore-DW-Postgresql/images/7-Customers with Above - Average Return Rate.PNG)
 ![Product Profitability](Superstore-DW-Postgresql/images/9-Product Profitability Classification.PNG)
-
 ## Tools
 PostgreSQL, Python (Pandas, SQLAlchemy)
