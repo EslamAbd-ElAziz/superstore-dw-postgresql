@@ -47,6 +47,5 @@ for executive reporting and KPI monitoring.
 ## Screenshots
 ![Star_Schema](Superstore-DW-Postgresql/images/1-Star_Schema.png)
 ![ERD](Superstore-DW-Postgresql/images/2-ERD.PNG)
-![Profit Growth by Category](Superstore-DW-Postgresql/images/10-Profit Growth by Category.png)
 ## Tools
 PostgreSQL, Python (Pandas, SQLAlchemy)
