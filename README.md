@@ -47,7 +47,7 @@ for executive reporting and KPI monitoring.
 ## Screenshots
 ![Star_Schema](Superstore-DW-Postgresql/images/1-Star_Schema.png)
 ![ERD](Superstore-DW-Postgresql/images/2-ERD.PNG)
-![Customers Average](Superstore-DW-Postgresql/images/7-Customers-with-Above-Average-Return-Rate.PNG)
+![Customers Average](<Superstore-DW-Postgresql/images/9-Product Profitability Classification.PNG>)
 
 ## Tools
 PostgreSQL, Python (Pandas, SQLAlchemy)
