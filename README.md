@@ -47,7 +47,6 @@ for executive reporting and KPI monitoring.
 ## Screenshots
 ![Star_Schema](Superstore-DW-Postgresql/images/1-Star_Schema.png)
 ![ERD](Superstore-DW-Postgresql/images/2-ERD.PNG)
-![Star_Schema](Superstore-DW-Postgresql/images/9-Product Profitability Classification.PNG)
-
+![Product Profitability Classification](Superstore-DW-Postgresql/images/9-Product Profitability Classification.PNG)
 ## Tools
 PostgreSQL, Python (Pandas, SQLAlchemy)
